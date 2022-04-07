@@ -1,0 +1,24 @@
+[
+  {
+    "id": 100,
+    "name": "tmp",
+    "parentId": 4,
+    "description": "",
+    "lastModified": "2022-04-07 14:11:21 +0000",
+    "type": 0,
+    "templateId": null,
+    "templateLocked": 0,
+    "creation": "2022-04-07 14:11:21 +0000",
+    "creator": "Admin Admin",
+    "position": 1,
+    "hidden": 0,
+    "foldRef": null,
+    "securityRef": 4,
+    "attributes": [],
+    "storage": null,
+    "tags": [],
+    "ocrTemplateId": null,
+    "barcodeTemplateId": null,
+    "maxVersions": null
+  }
+]

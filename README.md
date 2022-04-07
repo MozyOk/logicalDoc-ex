@@ -1,5 +1,10 @@
 # LogicalDoc
 
+## setup
+```
+docker-compose up -d
+```
+
 https://docs.logicaldoc.com/resources/wsdoc/rest/8.6/index.html#/
 
 ## login
